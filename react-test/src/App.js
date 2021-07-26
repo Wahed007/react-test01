@@ -75,7 +75,7 @@ class App extends Component {
      return(
 
                 <div className='App'>
-                       <h2>React Name (Toggle App)</h2>    
+                       <h2>React Name=(Toggle App)</h2>    
                            <button                  
                            style={style}
                            onClick={this.togglePersonsHandler}>Toggle Persons</button>
